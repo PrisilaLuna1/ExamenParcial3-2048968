@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(41,19): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(329,25): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(330,26): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(421,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(449,21): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(450,22): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(458,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(466,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Prisila\source\repos\examenparcial3\Main.cpp(473,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  examenparcial3.vcxproj -> C:\Users\Prisila\source\repos\examenparcial3\x64\Debug\examenparcial3.exe
